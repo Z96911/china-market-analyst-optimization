@@ -13,8 +13,6 @@ TradingAgents-CN 股票筛选模块优化版
 2. 替换文件: cp china_market_analyst_optimized.py tradingagents/agents/analysts/china_market_analyst.py
 3. 重启服务
 
-作者: Claude (基于 TradingAgents-CN 原代码优化)
-日期: 2026-01-03
 """
 
 from langchain_core.prompts import ChatPromptTemplate, MessagesPlaceholder
